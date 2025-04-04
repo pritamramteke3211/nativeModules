@@ -1,4 +1,4 @@
-import {Button, NativeModules, StyleSheet, Text, View} from 'react-native';
+import {Button, NativeModules, View} from 'react-native';
 import React from 'react';
 
 const {ToastModule} = NativeModules;
